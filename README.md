@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 I'm currently a junior undergraduate student at Beijing University of Posts and Telecommunications
+- 📖 I'm currently majoring in **AI** at the School of Artificial Intelligence (general courses and basic professional courses)
+- 🙏 Welcome experts from all fields to share your guidance
